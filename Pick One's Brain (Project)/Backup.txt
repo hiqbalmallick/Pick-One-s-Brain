@@ -1,0 +1,53 @@
+lol
+97.33
+Q. Which one of the following is least like the other three?
+A. Lion			B. Elephant
+C. Snake		D. Mouse
+Q. Which number should come next in the series? (1,1,2,3,5,8,23)
+A. 26			B. 31
+C. 24			D. 21
+Q. If PEACH=HCAEP then 46251=?
+A. 25641		B. 12654
+C. 15264		C. 54162
+Q. Mary, who is sixteen years old, is four times as old as her brother. How old will Mary be when she is twice as old as her brother?
+A. 20			B. 26
+C. 24			D. 32
+Q. Which one of the five choices makes the best comparison? Finger is to Hand as Leaf is to:
+A. Blossom		B. Tree
+C. Branch		D. Twig
+Q. If you rearrange the letters "LASONELT", you'll get name/surname of a(n):
+A. Actor		B. Character
+C. Player		D. Singer
+Q. Which city is known at 'The City of Seven Hills'?
+A. Paris		B. Kashmir
+C. Rome			D. Madrid
+Q. Who was awarded the youngest player award in Fifa World Cup 2006?
+A. Wayne Rooney		B. Lionel Messi
+C. Lucas Podolski	D. Cristiano Ronaldo
+Q. Who was the only player to score 6 successive sixes in an over in an ODI match?
+A. Yuvraj Singh		B. Sanath Jayasuriya
+C. Herschelle Gibbs	D. Angelo Mathews
+Q. Which's the capital city of Hong Kong?
+A. Kuala Lampur		B. Victoria City
+C. Jakarta		D. Beijing
+Q. Who was the first US President?
+A. Abraham Lincoln	B. John F. Kennedy
+C. George Washington	D. Nelson Mandela
+Q. If all Bloops are Razzies and all Razzies are Lazzies, all Bloops are definitely Lazzies?
+A. True
+B. False
+Q. Choose the word most similar to "Trustworthy":
+A. Insolent		B. Reliable
+C. Relevant		D. Resolute
+Q. Ralph likes 25 but not 24; he likes 400 but not 300; he likes 144 but not 145. Which does he like:
+A. 10			B. 20
+C. 200			D. 1600
+Q. If Bob sold 15 apples in a working week, what is the average number of apples he sells each day?
+A. 5			B. 1
+C. 6			D. 3
+Q. "Boat is to water" therefore "Plane is to _____"
+A. Fly			B. Sky
+C. Float		D. Air
+Q. The word PARTICULAR is the opposite of: 
+A. Distinct		B. Vague
+C. Exacting		D. Fussy
